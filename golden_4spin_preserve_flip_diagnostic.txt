@@ -1,0 +1,21 @@
+FIRST-PASS DIAGNOSTIC ONLY — not an aperiodicity test.
+State order: bottom-left, bottom-right, top, center.
+P/F here means boundary-equivalence classes under carrier D3 symmetries;
+next step must search actual composite polygons and edge-to-edge adjacencies.
+
+00 ---- P=True F=False mixed=True degree=2 sig=(0.04606553, 0.2127322, 0.37939887, 0.54606553, 0.7127322, 0.87939887)
+01 ---+ P=True F=False mixed=True degree=2 sig=(0.04606553, 0.2127322, 0.37939887, 0.54606553, 0.7127322, 0.87939887)
+02 --+- P=True F=False mixed=True degree=6 sig=(0.04606553, 0.2127322, 0.37939887, 0.62060113, 0.7872678, 0.87939887)
+03 --++ P=True F=False mixed=True degree=6 sig=(0.04606553, 0.2127322, 0.37939887, 0.62060113, 0.7872678, 0.87939887)
+04 -+-- P=True F=False mixed=True degree=6 sig=(0.04606553, 0.2872678, 0.45393447, 0.54606553, 0.7127322, 0.87939887)
+05 -+-+ P=True F=False mixed=True degree=6 sig=(0.04606553, 0.2872678, 0.45393447, 0.54606553, 0.7127322, 0.87939887)
+06 -++- P=True F=False mixed=True degree=6 sig=(0.04606553, 0.2872678, 0.45393447, 0.62060113, 0.7872678, 0.87939887)
+07 -+++ P=True F=False mixed=True degree=6 sig=(0.04606553, 0.2872678, 0.45393447, 0.62060113, 0.7872678, 0.87939887)
+08 +--- P=True F=False mixed=True degree=6 sig=(0.12060113, 0.2127322, 0.37939887, 0.54606553, 0.7127322, 0.95393447)
+09 +--+ P=True F=False mixed=True degree=6 sig=(0.12060113, 0.2127322, 0.37939887, 0.54606553, 0.7127322, 0.95393447)
+10 +-+- P=True F=False mixed=True degree=6 sig=(0.12060113, 0.2127322, 0.37939887, 0.62060113, 0.7872678, 0.95393447)
+11 +-++ P=True F=False mixed=True degree=6 sig=(0.12060113, 0.2127322, 0.37939887, 0.62060113, 0.7872678, 0.95393447)
+12 ++-- P=True F=False mixed=True degree=6 sig=(0.12060113, 0.2872678, 0.45393447, 0.54606553, 0.7127322, 0.95393447)
+13 ++-+ P=True F=False mixed=True degree=6 sig=(0.12060113, 0.2872678, 0.45393447, 0.54606553, 0.7127322, 0.95393447)
+14 +++- P=True F=False mixed=True degree=2 sig=(0.12060113, 0.2872678, 0.45393447, 0.62060113, 0.7872678, 0.95393447)
+15 ++++ P=True F=False mixed=True degree=2 sig=(0.12060113, 0.2872678, 0.45393447, 0.62060113, 0.7872678, 0.95393447)

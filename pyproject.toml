@@ -1,0 +1,6 @@
+[project]
+name = "golden4-tiling-lab"
+version = "0.1.0"
+description = "Research scaffold for the Golden-4 triangular subdivision tiling project"
+requires-python = ">=3.10"
+dependencies = ["numpy", "shapely", "matplotlib"]
